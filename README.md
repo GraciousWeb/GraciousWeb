@@ -1,10 +1,11 @@
 ![Banner Image](https://github.com/GraciousWeb/GraciousWeb/blob/main/woman-office-computer-desk-night-woman-office-computer-desk-night-vector-illustration-busy-girl-287443746.jpg?raw=true)
 
 <h1 align="center">Hi 👋, I'm Grace Onuoha</h1>
-<h3 align="center">A passionate Backend developer from Nigeria</h3>
-<img align=“right” alt=“Coding” width= “400” src=“https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif”
+<h3 align="center">A Passionate Backend Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=graciousweb" alt="graciousweb" /></a> </p>
+<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="graciousweb"/>
+
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a></p
 
 - 🔭 I’m currently working on a **Scorecard project**
 
@@ -13,7 +14,7 @@
 - 💬 Ask me about **Java, JavaScript**, React**
 
 - 📫 How to reach me **graceonuoha302@gmail.com**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/grace-onuoha-07b78b268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/grace-onuoha-07b78b268/" height="30" width="40" /></a>
