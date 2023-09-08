@@ -1,4 +1,4 @@
-[ ! [ MasterHead](https://thumbs.dreamstime.com/b/woman-office-computer-desk-night-woman-office-computer-desk-night-vector-illustration-busy-girl-287443746.jpg)]
+![Banner Image](https://github.com/GraciousWeb/GraciousWeb/blob/main/woman-office-computer-desk-night-woman-office-computer-desk-night-vector-illustration-busy-girl-287443746.jpg?raw=true)
 
 <h1 align="center">Hi 👋, I'm Grace Onuoha</h1>
 <h3 align="center">A passionate Backend developer from Nigeria</h3>
